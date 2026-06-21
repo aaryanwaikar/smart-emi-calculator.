@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { ChevronDown, ChevronUp, CalendarRange, Table2 } from 'lucide-react';
 
 export default function EmiTable({ schedule }) {

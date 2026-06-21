@@ -1,6 +1,4 @@
-import React from 'react';
-import { Landmark, PiggyBank, Receipt, DollarSign, Wallet } from 'lucide-react';
-
+import { PiggyBank, Receipt, Wallet } from 'lucide-react';
 export default function EmiResults({
   loanAmount,
   emi,

@@ -1,6 +1,4 @@
-import React from 'react';
-import { IndianRupee, Percent, Calendar, RefreshCw } from 'lucide-react';
-
+import { IndianRupee, RefreshCw } from 'lucide-react';
 export default function EmiForm({
   loanAmount,
   setLoanAmount,
